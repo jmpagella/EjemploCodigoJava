@@ -1,0 +1,20 @@
+INSERT INTO users (email, firstname, lastname) VALUES ('a@example.com', 'Pepe', 'Argento');
+INSERT INTO users (email, firstname, lastname) VALUES ('b@example.com', 'Moni', 'Argento');
+INSERT INTO users (email, firstname, lastname) VALUES ('c@example.com', 'Juan', 'Perez');
+INSERT INTO users (email, firstname, lastname) VALUES ('d@example.com', 'Gonzalo', 'Lopez');
+INSERT INTO users (email, firstname, lastname) VALUES ('e@example.com', 'Victoria', 'La Gana');
+INSERT INTO users (email, firstname, lastname) VALUES ('f@example.com', 'Pedro', 'La Empata');
+INSERT INTO users (email, firstname, lastname) VALUES ('g@example.com', 'Laura', 'La Pierde');
+INSERT INTO users (email, firstname, lastname) VALUES ('h@example.com', 'Diego', 'Maradona');
+
+INSERT INTO loans (total, user_id) VALUES (1400, 1);
+INSERT INTO loans (total, user_id) VALUES (1500, 1);
+INSERT INTO loans (total, user_id) VALUES (1600, 1);
+INSERT INTO loans (total, user_id) VALUES (1700, 1);
+INSERT INTO loans (total, user_id) VALUES (1800, 1);
+INSERT INTO loans (total, user_id) VALUES (1900, 1);
+INSERT INTO loans (total, user_id) VALUES (2000, 2);
+INSERT INTO loans (total, user_id) VALUES (2100, 2);
+INSERT INTO loans (total, user_id) VALUES (3000, 3);
+INSERT INTO loans (total, user_id) VALUES (3100, 3);
+INSERT INTO loans (total, user_id) VALUES (3200, 3);
